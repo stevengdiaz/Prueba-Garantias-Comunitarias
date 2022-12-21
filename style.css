@@ -1,0 +1,48 @@
+.h2 {
+  color: #eeeeee;
+}
+
+.h5 {
+  color: #eeeeee;
+}
+
+.h6 {
+  color: #eeeeee;
+}
+
+.icon {
+  width: 60px;
+  height: 60px;
+  filter: invert(99%) sepia(9%) saturate(75%) hue-rotate(296deg)
+    brightness(115%) contrast(87%);
+  opacity: 0.2;
+  padding: 1%;
+  position: absolute;
+  top: 13px;
+  left: auto;
+}
+
+.smallIcon {
+  width: 60px;
+  height: 60px;
+  filter: invert(99%) sepia(9%) saturate(75%) hue-rotate(296deg)
+    brightness(115%) contrast(87%);
+
+  position: absolute;
+  top: 13px;
+  left: 50px;
+}
+
+.meetIcon {
+  width: 40px;
+  height: 40px;
+  border-radius: 10px;
+  padding: 1%;
+  position: absolute;
+  top: 3px;
+  right: auto;
+}
+
+ul {
+  list-style: url(./Images/pdf.png);
+}
